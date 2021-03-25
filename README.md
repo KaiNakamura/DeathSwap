@@ -5,7 +5,7 @@
 <p align="center">
 	<h1 align="center">Death Swap</h1>
 	<h2 align="center">
-		PvP Minigame that Swaps the Locations of Players
+		Minecraft Minigame that Swaps the Locations of Players
 		<br />
 		<a href="https://github.com/KaiNakamura/DeathSwap/issues">Report Bug</a>
 		·
