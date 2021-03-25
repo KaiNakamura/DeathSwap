@@ -1,0 +1,4 @@
+swap-time: 300 # seconds
+warning-time: 20 # seconds
+warning-sounds: true
+world-border-size: 300 # blocks

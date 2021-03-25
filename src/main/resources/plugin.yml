@@ -1,0 +1,26 @@
+name: DeathSwap
+version: 1.0
+author: KaiNakamura
+main: com.github.deathswap.DeathSwap
+api-version: 1.16
+commands:
+  start:
+    description: Starts the game
+    permission: deathswap
+    usage: /start
+  stop:
+    description: Stops the game
+    permission: deathswap
+    usage: /stop
+  config:
+    description: Open config gui
+    permission: deathswap
+    usage: /config [player]
+  swap:
+    description: Swap players
+    permission: deathswap
+    usage: /swap [seconds]
+permissions:
+  deathswap:
+    description: Allows deathswap commands
+    default: op
